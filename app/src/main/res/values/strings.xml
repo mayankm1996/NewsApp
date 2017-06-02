@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="election">ELECTION</string>
+    <string name="bjp_wins_in_up">BJP WINS IN UP</string>
+    <string name="no_connection">no connection</string>
+    <string name="no_news">NO NEWS IS AVAILABLE RIGHT NOW</string>
+</resources>
